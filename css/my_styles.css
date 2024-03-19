@@ -22,3 +22,10 @@ p.r{
     text-align: center;
     font-size: 40px;
 }
+.yellow {
+        color:#dc3545; 
+}
+.yellow:hover {
+    background-color:#dc3545;    
+    color:azure;
+}
